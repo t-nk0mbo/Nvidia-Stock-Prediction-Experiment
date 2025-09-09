@@ -2,6 +2,8 @@
 
 This project explores NVIDIA's stock price data using exploratory data analysis, visualization, and machine learning models. It was developed as part of a data science experiment to understand financial time series patterns and apply predictive modeling techniques.
 
+Case Study of the experiment: https://animated-talos-5ae.notion.site/Nvidia-Stock-Prediction-Experiment-1bb1204ea4d681838b93ca457c91c1ed
+
 ## 📊 Dataset
 - Source: [Kaggle - NVIDIA Stock Data](https://www.kaggle.com/datasets/muhammaddawood42/nvidia-stock-data)  
 - Columns: `Date, Adj Close, Close, High, Low, Open, Volume`  
